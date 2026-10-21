@@ -1,0 +1,14 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Git and IDE files
+.git
+.idea
+.vscode
+
+# Build output and logs
+target
+*.log
+.DS_Store
